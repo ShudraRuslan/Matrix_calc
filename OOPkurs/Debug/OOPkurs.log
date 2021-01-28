@@ -1,0 +1,74 @@
+﻿  Source.cpp
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\Vector.h(11,27): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\ConsoleInterface.h(25,29): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(26,1): warning C4804: ~: небезопасное использование типа "bool" в операции
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(19): message : во время компиляции функции-члена класс шаблон "void SquareMatrix<float>::swap(const int &,const int &)"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(344): message : выполняется компиляция ссылки на экземпляр шаблон функции "void SquareMatrix<float>::swap(const int &,const int &)"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(173): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "SquareMatrix<float>"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(744): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "SquareMatrix<T>"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(26,3): warning C4552: "~": результат выражения не используется
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(528,62): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(313): message : выполняется компиляция ссылки на экземпляр шаблон функции "void SquareMatrix<float>::findSlauSolution<double>(Vector<double> &,Vector<float> *,bool) const"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(313): message : выполняется компиляция ссылки на экземпляр шаблон функции "void SquareMatrix<float>::findSlauSolution<double>(Vector<double> &,Vector<float> *,bool) const"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(299): message : во время компиляции функции-члена класс шаблон "bool SquareMatrix<float>::findReversedMatrix(void)"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(709): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool SquareMatrix<float>::findReversedMatrix(void)"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(539,60): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(590,70): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(607,69): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(626,59): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(77,30): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(521): message : выполняется компиляция ссылки на экземпляр шаблон функции "void SquareMatrix<float>::findTriangleForm<int>(Vector<int> &)"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(521): message : выполняется компиляция ссылки на экземпляр шаблон функции "void SquareMatrix<float>::findTriangleForm<int>(Vector<int> &)"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(199): message : выполняется компиляция ссылки на экземпляр шаблон функции "void SquareMatrix<float>::findSlauSolution<int>(Vector<int> &,Vector<float> *,bool) const"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(199): message : выполняется компиляция ссылки на экземпляр шаблон функции "void SquareMatrix<float>::findSlauSolution<int>(Vector<int> &,Vector<float> *,bool) const"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(185): message : во время компиляции функции-члена класс шаблон "bool SquareMatrix<float>::fullSpectralCaseLU(Vector<float> &,SquareMatrix<float> &) const"
+C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\OOPkurs\SquareMatrix.h(665): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool SquareMatrix<float>::fullSpectralCaseLU(Vector<float> &,SquareMatrix<float> &) const"
+  OOPkurs.vcxproj -> C:\Users\Asus\Desktop\Проекты 2 курс\курсач\OOPkurs\Debug\OOPkurs.exe
